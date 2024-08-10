@@ -8,6 +8,10 @@ Features:
 - It includes a CloudVendor class (@Entity), and a CloudAPISerice (@RestController).
 - Vendor Id; Vendor Name; Vendor Address; Vendor Phone Number.
 
+Technologies:
+- IntelliJ IDEA Community Edition 2024.1.1
+- SPRING Initializr
+
 Dependencies:
 - Spring Web.
 
