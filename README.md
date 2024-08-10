@@ -5,7 +5,7 @@ Explanation:
 - The iformation can be displayed in the localhost:8080 and in Postman.
 
 Features:
-- It includes a CloudVendor class (@Entity), and a CloudAPISerice(@RestController).
+- It includes a CloudVendor class (@Entity), and a CloudAPISerice (@RestController).
 - Vendor Id; Vendor Name; Vendor Address; Vendor Phone Number.
 
 Dependencies:
